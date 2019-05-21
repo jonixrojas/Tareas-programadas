@@ -1,0 +1,11 @@
+Ejercicios tarea programada 2:
+
+Probabilidad simple: http://proyest1.blogspot.com/p/probabilidad-simple-ejercicios.html
+
+Probabilidad independiente: http://www.montereyinstitute.org/courses/Algebra1/COURSE_TEXT_RESOURCE/U12_L2_T2_text_final_es.html
+
+Paradoja del cumpleaños: http://www.estadisticaparatodos.es/taller/cumpleanos/cumpleanos.html#2
+
+Teorema de Bayes: https://www.profesor10demates.com/2013/09/probabilidad-7-teorema-de-bayes.html
+
+Distribución normal: Inventado
